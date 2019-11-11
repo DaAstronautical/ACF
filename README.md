@@ -1,4 +1,4 @@
-# Armoured Combat Framework
+# Armoured Combat Rework
 
 The Armoured Combat Framework is a [Garry's Mod][] addon which creates a balanced, realistic and fun to play combat damage system, simulating projectiles, armor and explosions, as well as engines and gearboxes.
 
