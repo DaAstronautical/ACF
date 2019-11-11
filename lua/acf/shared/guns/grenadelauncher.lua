@@ -16,6 +16,7 @@ ACF_defineGun("40mmGL", { --id
 	desc = "The 40mm chews up infantry but is about as useful as tits on a nun for fighting armor.  Often found on 4x4s rolling through the third world.",
 	model = "models/launcher/40mmgl.mdl",
 	gunclass = "GL",
+	canparent=true,
 	caliber = 4.0,
 	weight = 55,
 	magsize = 6,

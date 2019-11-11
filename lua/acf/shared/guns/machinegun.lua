@@ -1,6 +1,6 @@
 --define the class
 ACF_defineGunClass("MG", {
-	spread = 0.24,
+	spread = 0.16,
 	name = "Machinegun",
 	desc = "Machineguns are light guns that fire equally light bullets at a fast rate.",
 	muzzleflash = "50cal_muzzleflash_noscale",
@@ -70,6 +70,7 @@ ACF_defineGun("20mmMG", {
 	desc = "The 20mm MG is practically a cannon in its own right; the weight and recoil made it difficult to mount on light land vehicles, though it was adapted for use on both aircraft and ships.",
 	model = "models/machinegun/machinegun_20mm.mdl",
 	gunclass = "MG",
+	canparent=true,
 	caliber = 2.0,
 	weight = 95,
 	year = 1935,

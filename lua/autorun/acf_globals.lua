@@ -180,6 +180,9 @@ elseif CLIENT then
 end
 
 include("acf/shared/rounds/roundap.lua")
+include("acf/shared/rounds/roundapds.lua")
+include("acf/shared/rounds/roundapfsds.lua")
+include("acf/shared/rounds/roundheatfs.lua")
 include("acf/shared/rounds/roundaphe.lua")
 include("acf/shared/rounds/roundhe.lua")
 include("acf/shared/rounds/roundheat.lua")
