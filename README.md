@@ -1,14 +1,14 @@
-# Armoured Combat Framework
+# Armored Combat Remake
 
-The Armoured Combat Framework is a [Garry's Mod][] addon which creates a balanced, realistic and fun to play combat damage system, simulating projectiles, armor and explosions, as well as engines and gearboxes.
+The Armoured Combat Remake is a [Garry's Mod][] addon forked by the people who where tired of being stereotyped as "60 tonne minmaxers" whose goal is to create a realistic and fun armored combat experience that utilises a unique damage system that simulates projectiles, armor, explosions, and mobility components.
 
-IF YOU ARE HAVING INSTALLATION PROBLEMS, PLEASE POST ON THE FACEPUNCH ACF THREAD, NOT ON GITHUB.  Please only create an issue on github if you've found a bug, or have a suggestion.  The [FP forum ACF thread][] is a good place for general ACF conversation, suggestions, and help requests.
+Feel free to submit all bugs, exploits, and suggestions on the [Issues][] page. We're always open to new ideas and would be happy to hear suggestions for the addon.
 
-When submitting a new issue or suggestion to [ACF Issues][] page, please double-check that someone else hasn't brought it up yet. Be sure to check closed issues as well.  Common suggestions that have already come up are turbos, propellers, cannon sizes, and engines.
+The [ACR Wiki][] is new and pretty empty, we would appreciate any help that we could get.
 
-Be sure to check out the [ACF Wiki][] for more ACF related information.
+Want to know more about the community of "evil minmaxers?" Consider checking us out on the [RFAI Wikia] and get to know us a little bit better.
   
 [Garry's Mod]: <http://garrysmod.com/>
-[FP forum ACF thread]: <https://facepunch.com/showthread.php?t=1548397>
-[ACF Issues]: <https://github.com/nrlulz/ACF/issues>
-[ACF Wiki]: <https://github.com/nrlulz/ACF/wiki>
+[Issues]: <https://github.com/DaAstronautical/ACR/issues>
+[ACR Wiki]: <https://github.com/DaAstronautical/ACR/wiki>
+[RFAI Wikia]: <https://the-rfai.fandom.com/wiki/The_RFAI_Wiki>
